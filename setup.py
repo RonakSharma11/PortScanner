@@ -13,7 +13,7 @@ setup(
         ],
     },
     description='A simple Python port scanner that discovers live hosts in a subnet and scans for open ports.',
-    author='Ronak',  # Replace with your name
-    author_email='ronak.d.sharma111@gmail.com',  # Replace with your email
+    author='Your Name',  # Replace with your name
+    author_email='your.email@example.com',  # Replace with your email
     url='https://github.com/RonakSharma11/PortScanner',  # Replace with your GitHub repository URL
 )
